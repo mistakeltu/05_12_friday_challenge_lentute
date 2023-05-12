@@ -1,0 +1,32 @@
+body {
+ background-color:darkslategrey;
+}
+.kalendorius {
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    margin: 15vh auto 0;
+    padding: 0.5em;
+    border-radius: 5px;
+}
+
+table {
+    width: 500px;
+    height: 220px;
+    margin-top: 70px;
+}
+td {
+    padding-left: 25px;
+  }
+
+th {
+    color: red;
+}
+
+h3 {
+    color: red;
+    font-size: 100px;
+    margin-bottom: 0;
+    margin-top: 80px;
+    margin-left: 15px;
+}
